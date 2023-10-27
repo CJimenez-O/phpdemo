@@ -1,0 +1,7 @@
+- Grab assets
+- What extensions are needed. ( ex: mysql )
+- import 
+require_once('/DRBD/www/pareps/auth/auth.php');
+include_once('phpMysql/dbConfig.inc.php');
+
+- Test
